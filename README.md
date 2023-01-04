@@ -28,8 +28,7 @@ item, if the bidding time was not yet started you cant place bid.
 the user with the highest bid will be the new owner of that item.
 
 in our ERB digram we explain the real relationship.
-  <img
-        align="left"
-        src="https://ibb.co/xMkcDkx"
-        alt="ifcodey"
-      />
+<html>
+    <img align="left" src="https://ibb.co/xMkcDkx" alt="ifcodey"/>
+  </html>
+
