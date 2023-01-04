@@ -28,7 +28,7 @@ item, if the bidding time was not yet started you cant place bid.
 5. When the bidding ending time is over the bidding will be stopped and
 the user with the highest bid will be the new owner of that item.
 
-## ERD DIGRAM
+## ERD DIAGRAM
 in our ERB digram we explain the real relationship.
 <html>
     <div>
