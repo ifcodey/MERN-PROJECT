@@ -1,12 +1,12 @@
 # MERN PROJECT - OKTION
 ## introduction :
-<html>
+
 our project is a eCommerce website have a ability to put some order on discount stage with limitation time.however , as any eCommerce website can add , remove , update and delete on orders by Admin and this consider a CRUD operation as we getting in MERN stack.in fact, there are some of relation between a models in DB like between user if he (admin or natural user) and products.
 
 Our platform will be a place where people can bid on any kind of items that is posted by other people who are trying to sell those items,multiple people can
 bid on any item they want and the person with the highest bid will win the auction and be able to buy that item for the price they paid.
 
-    <h3>Requirements :</h3>
+##Requirements :
 1. We will create a login and registration page in order to make our users
 have access to our website , the user will fill the following data to be
 able to join (user name, email, phone number, password.
@@ -27,7 +27,7 @@ item, if the bidding time was not yet started you cant place bid.
 
 5. When the bidding ending time is over the bidding will be stopped and
 the user with the highest bid will be the new owner of that item.
-
+<html>
 in our ERB digram we explain the real relationship.
     <div>
         <a href="https://ibb.co/xMkcDkx"><img src="https://i.ibb.co/y89MX9H/1.png" alt="1" border="0"></a>
