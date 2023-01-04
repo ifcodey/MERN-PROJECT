@@ -40,11 +40,11 @@ in our ERB digram we explain the real relationship.
 2- Mohammad Bzoor
 3- Motasm Saem
 4- Ahmed Shalah
-
+<P></P>
 | Team Member  | Work Area |
 | ------------- | ------------- |
 | Malak Mohanna  | Backend  |
 | Mohammad Bzoor  | Backend / Frontend  |
 | Motasm Saem  | Frontend  |
-| Ahmed Shalah  | Backend / Scrum Master / Product Manager  |
+| Ahmed Shalah  | Assistant Backend / Scrum Master / Product Manager  |
 
