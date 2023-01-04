@@ -44,3 +44,4 @@ in our ERB digram we explain the real relationship.
 | Motasm Saem  | Frontend  |
 | Ahmed Shalah  | Assistant Backend / Scrum Master / Product Manager  |
 
+## Project Functionality :
