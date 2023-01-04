@@ -35,9 +35,8 @@ in our ERB digram we explain the real relationship.
         <a href="https://ibb.co/xMkcDkx"><img src="https://i.ibb.co/y89MX9H/1.png" alt="1" border="0"></a>
     </div>
 </html>
-<html
-<h1> Our Team :</h1>
-</html>
+## Our Team :
+
 | Team Member  | Work Area |
 | ------------- | ------------- |
 | Malak Mohanna  | Backend  |
