@@ -5,7 +5,7 @@ our project is a eCommerce website have a ability to put some order on discount 
 Our platform will be a place where people can bid on any kind of items that is posted by other people who are trying to sell those items,multiple people can
 bid on any item they want and the person with the highest bid will win the auction and be able to buy that item for the price they paid.
 
-Requirements :
+##Requirements :
 1. We will create a login and registration page in order to make our users
 have access to our website , the user will fill the following data to be
 able to join (user name, email, phone number, password.
@@ -28,4 +28,4 @@ item, if the bidding time was not yet started you cant place bid.
 the user with the highest bid will be the new owner of that item.
 
 in our ERB digram we explain the real relationship.
-
+<img src="https://drive.google.com/file/d/1D83EIX6baZ04ZAEJ9evYtuM-e2UlZ386/view?usp=sharing"/>
