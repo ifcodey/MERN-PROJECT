@@ -30,6 +30,6 @@ the user with the highest bid will be the new owner of that item.
 in our ERB digram we explain the real relationship.
   <img
         align="left"
-        src="[https://github-readme-stats.vercel.app/api/top-langs?username=ifcodey&show_icons=true&locale=en&layout=compact](https://drive.google.com/file/d/1D83EIX6baZ04ZAEJ9evYtuM-e2UlZ386/view?usp=sharing)"
+        src="https://drive.google.com/file/d/1D83EIX6baZ04ZAEJ9evYtuM-e2UlZ386/view?usp=sharing"
         alt="ifcodey"
       />
