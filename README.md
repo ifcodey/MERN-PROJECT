@@ -36,11 +36,7 @@ in our ERB digram we explain the real relationship.
     </div>
 </html>
 ## Our Team :
-1- Malak Mohanna
-2- Mohammad Bzoor
-3- Motasm Saem
-4- Ahmed Shalah
-<P></P>
+
 | Team Member  | Work Area |
 | ------------- | ------------- |
 | Malak Mohanna  | Backend  |
