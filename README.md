@@ -30,7 +30,7 @@ the user with the highest bid will be the new owner of that item.
 
 in our ERB digram we explain the real relationship.
     <div>
-        <img align="left" src="https://ibb.co/xMkcDkx" alt="ifcodey"/>
+        <a href="https://ibb.co/xMkcDkx"><img src="https://i.ibb.co/y89MX9H/1.png" alt="1" border="0"></a>
     </div>
 </html>
 
