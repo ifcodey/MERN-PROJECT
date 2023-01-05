@@ -35,14 +35,6 @@ in our ERB digram we explain the real relationship.
         <a href="https://ibb.co/xMkcDkx"><img src="https://i.ibb.co/y89MX9H/1.png" alt="1" border="0"></a>
     </div>
 </html>
-* Our Team *
-
-| Team Member  | Work Area |
-| ------------- | ------------- |
-| Malak Mohanna  | Backend  |
-| Mohammad Bzoor  | Backend / Frontend  |
-| Motasm Saem  | Frontend  |
-| Ahmed Shalah  | Frontend / Scrum Master / Product Manager  |
 
 ## Project Functionality :
 <html>
@@ -55,6 +47,15 @@ in our ERB digram we explain the real relationship.
              <h3>Dashboard Page</h3>
             <a href="https://ibb.co/NnBSFwD"><img src="https://i.ibb.co/Lh7504j/4.png" alt="4" border="0"></a>
                  <h3>Dashboard Page</h3>
-          <a href="https://ibb.co/YDyFJsT"><img src="https://i.ibb.co/9wVkB53/5.png" alt="5" border="0"></a>
+         <a href="https://ibb.co/YDyFJsT"><img src="https://i.ibb.co/9wVkB53/5.png" alt="5" border="0"></a>
     </div>
 </html>
+    * Our Team *
+
+| Team Member  | Work Area |
+| ------------- | ------------- |
+| Malak Mohanna  | Backend  |
+| Mohammad Bzoor  | Backend / Frontend  |
+| Motasm Saem  | Frontend  |
+| Ahmed Shalah  | Frontend / Scrum Master / Product Manager  |
+
