@@ -1,7 +1,7 @@
 # MERN PROJECT - OKTION
 ## introduction :
 
-our project is a eCommerce website have a ability to put some order on discount stage with limitation time.however , as any eCommerce website can add , remove , update and delete on orders by Admin and this consider a CRUD operation as we getting in MERN stack.in fact, there are some of relation between a models in DB like between user if he (admin or natural user) and products.
+our project is a eCommerce website have a ability to put some order on discount stage with limitation time.however , as any eCommerce website can add , remove , update and delete on orders and this consider a CRUD operation as we getting in MERN stack.in fact, there are some of relation between a models in DB like between user if he (admin or natural user) and products.
 
 Our platform will be a place where people can bid on any kind of items that is posted by other people who are trying to sell those items,multiple people can
 bid on any item they want and the person with the highest bid will win the auction and be able to buy that item for the price they paid.
