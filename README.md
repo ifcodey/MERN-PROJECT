@@ -42,6 +42,6 @@ in our ERB digram we explain the real relationship.
 | Malak Mohanna  | Backend  |
 | Mohammad Bzoor  | Backend / Frontend  |
 | Motasm Saem  | Frontend  |
-| Ahmed Shalah  | Assistant Backend / Scrum Master / Product Manager  |
+| Ahmed Shalah  | Frontend / Scrum Master / Product Manager  |
 
 ## Project Functionality :
