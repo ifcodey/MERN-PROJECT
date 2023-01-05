@@ -44,11 +44,11 @@ in our ERB digram we explain the real relationship.
         <a href="https://ibb.co/NTJ7M4y"><img src="https://i.ibb.co/mN2S3xc/2.png" alt="2" border="0"></a>
             <h3>Home Page</h3>
         <a href="https://ibb.co/sjj3nrp"><img src="https://i.ibb.co/9nnY6jm/3.png" alt="3" border="0"></a>
-             <h3>Dashboard Page</h3>
+             <h3>Ad Page</h3>
             <a href="https://ibb.co/NnBSFwD"><img src="https://i.ibb.co/Lh7504j/4.png" alt="4" border="0"></a>
                  <h3>Posted Page</h3>
          <a href="https://ibb.co/YDyFJsT"><img src="https://i.ibb.co/9wVkB53/5.png" alt="5" border="0"></a>
-            <h3>Posted Page</h3>
+            <h3>Dashboard Page</h3>
             <a href="https://ibb.co/bb7H342"><img src="https://i.ibb.co/5K2Y9Qn/6.png" alt="6" border="0"></a>
     </div>
 </html>
