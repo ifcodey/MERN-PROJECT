@@ -47,10 +47,10 @@ in our ERB digram we explain the real relationship.
 ## Project Functionality :
 <html>
     <div>
-        <h1>Login And Registration
+        <h3>Login And Registration<h3/>
         <a href="https://ibb.co/VjmmMr0"><img src="https://i.ibb.co/3rzzSG5/1.png" alt="1" border="0"></a>
         <a href="https://ibb.co/NTJ7M4y"><img src="https://i.ibb.co/mN2S3xc/2.png" alt="2" border="0"></a>
-        <h1>Home Page
+            <h3>Home Page</h3>
         <a href="https://ibb.co/sjj3nrp"><img src="https://i.ibb.co/9nnY6jm/3.png" alt="3" border="0"></a>
     </div>
 </html>
